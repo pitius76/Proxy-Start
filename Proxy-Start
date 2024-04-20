@@ -1,5 +1,4 @@
 /* ============ TMDB Proxy ============ */
-
 (function () {
     'use strict';
 
