@@ -1,3 +1,5 @@
+/* ============ TMDB Proxy ============ */
+
 (function () {
     'use strict';
 
@@ -30,6 +32,7 @@
 
 
 
+/*=========== START ================*/
 (function () {
     'use strict';
     Lampa.Platform.tv();
